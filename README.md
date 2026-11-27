@@ -5,12 +5,12 @@
 
 | № | Работа | Исходники и запуск | Отчёт |
 | --- | --- | --- | --- |
-| 9 | Git и GitHub | [Каталог проекта](labs/09-Git/) | [Отчёт Word](labs/09-Git/Report.docx) |
-| 10 | Обработка исключений и журналирование | [Каталог проекта](labs/10-Logging/) | [Отчёт Word](labs/10-Logging/Report.docx) |
-| 11 | Entity Framework Core и Code First | [Каталог проекта](labs/11-EFCore/) | [Отчёт Word](labs/11-EFCore/Report.docx) |
-| 12 | Делегаты и события в C# | [Каталог проекта](labs/12-Events/) | [Отчёт Word](labs/12-Events/Report.docx) |
-| 13 | Документация проекта и DocFX | [Каталог проекта](labs/13-DocFX/) | [Отчёт Word](labs/13-DocFX/Report.docx) |
-| 14 | Юнит-тестирование с xUnit | [Каталог проекта](labs/14-xUnit/) | [Отчёт Word](labs/14-xUnit/Report.docx) |
+| 9 | Git и GitHub | [Каталог проекта](labs/09-Git/) | [Отчёт Word](labs/09-Git/%D0%9C%D0%94%D0%9A05%20%D0%9B%D0%A0-9%20%D0%A5%D0%B0%D0%B7%D0%B5%D0%B5%D0%B2%20%D0%98%D0%A1%D0%9F4423.docx) |
+| 10 | Обработка исключений и журналирование | [Каталог проекта](labs/10-Logging/) | [Отчёт Word](labs/10-Logging/%D0%9C%D0%94%D0%9A05%20%D0%9B%D0%A0-10%20%D0%A5%D0%B0%D0%B7%D0%B5%D0%B5%D0%B2%20%D0%98%D0%A1%D0%9F4423.docx) |
+| 11 | Entity Framework Core и Code First | [Каталог проекта](labs/11-EFCore/) | [Отчёт Word](labs/11-EFCore/%D0%9C%D0%94%D0%9A05%20%D0%9B%D0%A0-11%20%D0%A5%D0%B0%D0%B7%D0%B5%D0%B5%D0%B2%20%D0%98%D0%A1%D0%9F4423.docx) |
+| 12 | Делегаты и события в C# | [Каталог проекта](labs/12-Events/) | [Отчёт Word](labs/12-Events/%D0%9C%D0%94%D0%9A05%20%D0%9B%D0%A0-12%20%D0%A5%D0%B0%D0%B7%D0%B5%D0%B5%D0%B2%20%D0%98%D0%A1%D0%9F4423.docx) |
+| 13 | Документация проекта и DocFX | [Каталог проекта](labs/13-DocFX/) | [Отчёт Word](labs/13-DocFX/%D0%9C%D0%94%D0%9A05%20%D0%9B%D0%A0-13%20%D0%A5%D0%B0%D0%B7%D0%B5%D0%B5%D0%B2%20%D0%98%D0%A1%D0%9F4423.docx) |
+| 14 | Юнит-тестирование с xUnit | [Каталог проекта](labs/14-xUnit/) | [Отчёт Word](labs/14-xUnit/%D0%9C%D0%94%D0%9A05%20%D0%9B%D0%A0-14%20%D0%A5%D0%B0%D0%B7%D0%B5%D0%B5%D0%B2%20%D0%98%D0%A1%D0%9F4423.docx) |
 
 Для работы №13 доступна [собранная справка DocFX](labs/13-DocFX/site/). Скачайте каталог и откройте файл index.html.
 
