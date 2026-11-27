@@ -1,0 +1,746 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Lab8_CRUD
+  name: Lab8_CRUD
+  href: api/Lab8_CRUD.html
+  commentId: N:Lab8_CRUD
+  fullName: Lab8_CRUD
+  nameWithType: Lab8_CRUD
+- uid: Lab8_CRUD.Form1
+  name: Form1
+  href: api/Lab8_CRUD.Form1.html
+  commentId: T:Lab8_CRUD.Form1
+  fullName: Lab8_CRUD.Form1
+  nameWithType: Form1
+- uid: Lab8_CRUD.Form1.#ctor
+  name: Form1()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1__ctor
+  commentId: M:Lab8_CRUD.Form1.#ctor
+  name.vb: New()
+  fullName: Lab8_CRUD.Form1.Form1()
+  fullName.vb: Lab8_CRUD.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: Lab8_CRUD.Form1.#ctor*
+  name: Form1
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1__ctor_
+  commentId: Overload:Lab8_CRUD.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Lab8_CRUD.Form1.Form1
+  fullName.vb: Lab8_CRUD.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: Lab8_CRUD.Form1.ApplyStudentSearch
+  name: ApplyStudentSearch()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ApplyStudentSearch
+  commentId: M:Lab8_CRUD.Form1.ApplyStudentSearch
+  fullName: Lab8_CRUD.Form1.ApplyStudentSearch()
+  nameWithType: Form1.ApplyStudentSearch()
+- uid: Lab8_CRUD.Form1.ApplyStudentSearch*
+  name: ApplyStudentSearch
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ApplyStudentSearch_
+  commentId: Overload:Lab8_CRUD.Form1.ApplyStudentSearch
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.ApplyStudentSearch
+  nameWithType: Form1.ApplyStudentSearch
+- uid: Lab8_CRUD.Form1.ClearInputs
+  name: ClearInputs()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ClearInputs
+  commentId: M:Lab8_CRUD.Form1.ClearInputs
+  fullName: Lab8_CRUD.Form1.ClearInputs()
+  nameWithType: Form1.ClearInputs()
+- uid: Lab8_CRUD.Form1.ClearInputs*
+  name: ClearInputs
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ClearInputs_
+  commentId: Overload:Lab8_CRUD.Form1.ClearInputs
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.ClearInputs
+  nameWithType: Form1.ClearInputs
+- uid: Lab8_CRUD.Form1.CsvField(System.Object)
+  name: CsvField(object)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_CsvField_System_Object_
+  commentId: M:Lab8_CRUD.Form1.CsvField(System.Object)
+  name.vb: CsvField(Object)
+  fullName: Lab8_CRUD.Form1.CsvField(object)
+  fullName.vb: Lab8_CRUD.Form1.CsvField(Object)
+  nameWithType: Form1.CsvField(object)
+  nameWithType.vb: Form1.CsvField(Object)
+- uid: Lab8_CRUD.Form1.CsvField*
+  name: CsvField
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_CsvField_
+  commentId: Overload:Lab8_CRUD.Form1.CsvField
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.CsvField
+  nameWithType: Form1.CsvField
+- uid: Lab8_CRUD.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_Dispose_System_Boolean_
+  commentId: M:Lab8_CRUD.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: Lab8_CRUD.Form1.Dispose(bool)
+  fullName.vb: Lab8_CRUD.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: Lab8_CRUD.Form1.Dispose*
+  name: Dispose
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_Dispose_
+  commentId: Overload:Lab8_CRUD.Form1.Dispose
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: Lab8_CRUD.Form1.EnsureDatabaseCreated
+  name: EnsureDatabaseCreated()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_EnsureDatabaseCreated
+  commentId: M:Lab8_CRUD.Form1.EnsureDatabaseCreated
+  fullName: Lab8_CRUD.Form1.EnsureDatabaseCreated()
+  nameWithType: Form1.EnsureDatabaseCreated()
+- uid: Lab8_CRUD.Form1.EnsureDatabaseCreated*
+  name: EnsureDatabaseCreated
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_EnsureDatabaseCreated_
+  commentId: Overload:Lab8_CRUD.Form1.EnsureDatabaseCreated
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.EnsureDatabaseCreated
+  nameWithType: Form1.EnsureDatabaseCreated
+- uid: Lab8_CRUD.Form1.Form1_Load(System.Object,System.EventArgs)
+  name: Form1_Load(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_Form1_Load_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.Form1_Load(System.Object,System.EventArgs)
+  name.vb: Form1_Load(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.Form1_Load(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.Form1_Load(Object, System.EventArgs)
+  nameWithType: Form1.Form1_Load(object, EventArgs)
+  nameWithType.vb: Form1.Form1_Load(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.Form1_Load*
+  name: Form1_Load
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_Form1_Load_
+  commentId: Overload:Lab8_CRUD.Form1.Form1_Load
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.Form1_Load
+  nameWithType: Form1.Form1_Load
+- uid: Lab8_CRUD.Form1.GetSqlErrorMessage(System.Data.SqlClient.SqlException)
+  name: GetSqlErrorMessage(SqlException)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_GetSqlErrorMessage_System_Data_SqlClient_SqlException_
+  commentId: M:Lab8_CRUD.Form1.GetSqlErrorMessage(System.Data.SqlClient.SqlException)
+  fullName: Lab8_CRUD.Form1.GetSqlErrorMessage(System.Data.SqlClient.SqlException)
+  nameWithType: Form1.GetSqlErrorMessage(SqlException)
+- uid: Lab8_CRUD.Form1.GetSqlErrorMessage*
+  name: GetSqlErrorMessage
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_GetSqlErrorMessage_
+  commentId: Overload:Lab8_CRUD.Form1.GetSqlErrorMessage
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.GetSqlErrorMessage
+  nameWithType: Form1.GetSqlErrorMessage
+- uid: Lab8_CRUD.Form1.InitializeComponent
+  name: InitializeComponent()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_InitializeComponent
+  commentId: M:Lab8_CRUD.Form1.InitializeComponent
+  fullName: Lab8_CRUD.Form1.InitializeComponent()
+  nameWithType: Form1.InitializeComponent()
+- uid: Lab8_CRUD.Form1.InitializeComponent*
+  name: InitializeComponent
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_InitializeComponent_
+  commentId: Overload:Lab8_CRUD.Form1.InitializeComponent
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.InitializeComponent
+  nameWithType: Form1.InitializeComponent
+- uid: Lab8_CRUD.Form1.IsStudentExists(System.String)
+  name: IsStudentExists(string)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_IsStudentExists_System_String_
+  commentId: M:Lab8_CRUD.Form1.IsStudentExists(System.String)
+  name.vb: IsStudentExists(String)
+  fullName: Lab8_CRUD.Form1.IsStudentExists(string)
+  fullName.vb: Lab8_CRUD.Form1.IsStudentExists(String)
+  nameWithType: Form1.IsStudentExists(string)
+  nameWithType.vb: Form1.IsStudentExists(String)
+- uid: Lab8_CRUD.Form1.IsStudentExists*
+  name: IsStudentExists
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_IsStudentExists_
+  commentId: Overload:Lab8_CRUD.Form1.IsStudentExists
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.IsStudentExists
+  nameWithType: Form1.IsStudentExists
+- uid: Lab8_CRUD.Form1.LoadStudents
+  name: LoadStudents()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_LoadStudents
+  commentId: M:Lab8_CRUD.Form1.LoadStudents
+  fullName: Lab8_CRUD.Form1.LoadStudents()
+  nameWithType: Form1.LoadStudents()
+- uid: Lab8_CRUD.Form1.LoadStudents*
+  name: LoadStudents
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_LoadStudents_
+  commentId: Overload:Lab8_CRUD.Form1.LoadStudents
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.LoadStudents
+  nameWithType: Form1.LoadStudents
+- uid: Lab8_CRUD.Form1.ReportDatabaseError(System.String,System.Data.SqlClient.SqlException)
+  name: ReportDatabaseError(string, SqlException)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ReportDatabaseError_System_String_System_Data_SqlClient_SqlException_
+  commentId: M:Lab8_CRUD.Form1.ReportDatabaseError(System.String,System.Data.SqlClient.SqlException)
+  name.vb: ReportDatabaseError(String, SqlException)
+  fullName: Lab8_CRUD.Form1.ReportDatabaseError(string, System.Data.SqlClient.SqlException)
+  fullName.vb: Lab8_CRUD.Form1.ReportDatabaseError(String, System.Data.SqlClient.SqlException)
+  nameWithType: Form1.ReportDatabaseError(string, SqlException)
+  nameWithType.vb: Form1.ReportDatabaseError(String, SqlException)
+- uid: Lab8_CRUD.Form1.ReportDatabaseError(System.String,System.TimeoutException)
+  name: ReportDatabaseError(string, TimeoutException)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ReportDatabaseError_System_String_System_TimeoutException_
+  commentId: M:Lab8_CRUD.Form1.ReportDatabaseError(System.String,System.TimeoutException)
+  name.vb: ReportDatabaseError(String, TimeoutException)
+  fullName: Lab8_CRUD.Form1.ReportDatabaseError(string, System.TimeoutException)
+  fullName.vb: Lab8_CRUD.Form1.ReportDatabaseError(String, System.TimeoutException)
+  nameWithType: Form1.ReportDatabaseError(string, TimeoutException)
+  nameWithType.vb: Form1.ReportDatabaseError(String, TimeoutException)
+- uid: Lab8_CRUD.Form1.ReportDatabaseError*
+  name: ReportDatabaseError
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ReportDatabaseError_
+  commentId: Overload:Lab8_CRUD.Form1.ReportDatabaseError
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.ReportDatabaseError
+  nameWithType: Form1.ReportDatabaseError
+- uid: Lab8_CRUD.Form1.ReportUnexpectedError(System.String,System.Exception)
+  name: ReportUnexpectedError(string, Exception)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ReportUnexpectedError_System_String_System_Exception_
+  commentId: M:Lab8_CRUD.Form1.ReportUnexpectedError(System.String,System.Exception)
+  name.vb: ReportUnexpectedError(String, Exception)
+  fullName: Lab8_CRUD.Form1.ReportUnexpectedError(string, System.Exception)
+  fullName.vb: Lab8_CRUD.Form1.ReportUnexpectedError(String, System.Exception)
+  nameWithType: Form1.ReportUnexpectedError(string, Exception)
+  nameWithType.vb: Form1.ReportUnexpectedError(String, Exception)
+- uid: Lab8_CRUD.Form1.ReportUnexpectedError*
+  name: ReportUnexpectedError
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ReportUnexpectedError_
+  commentId: Overload:Lab8_CRUD.Form1.ReportUnexpectedError
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.ReportUnexpectedError
+  nameWithType: Form1.ReportUnexpectedError
+- uid: Lab8_CRUD.Form1.SaveSnapshot
+  name: SaveSnapshot()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_SaveSnapshot
+  commentId: M:Lab8_CRUD.Form1.SaveSnapshot
+  fullName: Lab8_CRUD.Form1.SaveSnapshot()
+  nameWithType: Form1.SaveSnapshot()
+- uid: Lab8_CRUD.Form1.SaveSnapshot*
+  name: SaveSnapshot
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_SaveSnapshot_
+  commentId: Overload:Lab8_CRUD.Form1.SaveSnapshot
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.SaveSnapshot
+  nameWithType: Form1.SaveSnapshot
+- uid: Lab8_CRUD.Form1.UpdateStatus
+  name: UpdateStatus()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_UpdateStatus
+  commentId: M:Lab8_CRUD.Form1.UpdateStatus
+  fullName: Lab8_CRUD.Form1.UpdateStatus()
+  nameWithType: Form1.UpdateStatus()
+- uid: Lab8_CRUD.Form1.UpdateStatus*
+  name: UpdateStatus
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_UpdateStatus_
+  commentId: Overload:Lab8_CRUD.Form1.UpdateStatus
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.UpdateStatus
+  nameWithType: Form1.UpdateStatus
+- uid: Lab8_CRUD.Form1.ValidateInput
+  name: ValidateInput()
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ValidateInput
+  commentId: M:Lab8_CRUD.Form1.ValidateInput
+  fullName: Lab8_CRUD.Form1.ValidateInput()
+  nameWithType: Form1.ValidateInput()
+- uid: Lab8_CRUD.Form1.ValidateInput*
+  name: ValidateInput
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_ValidateInput_
+  commentId: Overload:Lab8_CRUD.Form1.ValidateInput
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.ValidateInput
+  nameWithType: Form1.ValidateInput
+- uid: Lab8_CRUD.Form1.buttonAdd
+  name: buttonAdd
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonAdd
+  commentId: F:Lab8_CRUD.Form1.buttonAdd
+  fullName: Lab8_CRUD.Form1.buttonAdd
+  nameWithType: Form1.buttonAdd
+- uid: Lab8_CRUD.Form1.buttonAdd_Click(System.Object,System.EventArgs)
+  name: buttonAdd_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonAdd_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonAdd_Click(System.Object,System.EventArgs)
+  name.vb: buttonAdd_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonAdd_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonAdd_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonAdd_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonAdd_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonAdd_Click*
+  name: buttonAdd_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonAdd_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonAdd_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonAdd_Click
+  nameWithType: Form1.buttonAdd_Click
+- uid: Lab8_CRUD.Form1.buttonClear
+  name: buttonClear
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonClear
+  commentId: F:Lab8_CRUD.Form1.buttonClear
+  fullName: Lab8_CRUD.Form1.buttonClear
+  nameWithType: Form1.buttonClear
+- uid: Lab8_CRUD.Form1.buttonClear_Click(System.Object,System.EventArgs)
+  name: buttonClear_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonClear_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonClear_Click(System.Object,System.EventArgs)
+  name.vb: buttonClear_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonClear_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonClear_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonClear_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonClear_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonClear_Click*
+  name: buttonClear_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonClear_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonClear_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonClear_Click
+  nameWithType: Form1.buttonClear_Click
+- uid: Lab8_CRUD.Form1.buttonDelete
+  name: buttonDelete
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonDelete
+  commentId: F:Lab8_CRUD.Form1.buttonDelete
+  fullName: Lab8_CRUD.Form1.buttonDelete
+  nameWithType: Form1.buttonDelete
+- uid: Lab8_CRUD.Form1.buttonDelete_Click(System.Object,System.EventArgs)
+  name: buttonDelete_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonDelete_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonDelete_Click(System.Object,System.EventArgs)
+  name.vb: buttonDelete_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonDelete_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonDelete_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonDelete_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonDelete_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonDelete_Click*
+  name: buttonDelete_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonDelete_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonDelete_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonDelete_Click
+  nameWithType: Form1.buttonDelete_Click
+- uid: Lab8_CRUD.Form1.buttonExportCsv
+  name: buttonExportCsv
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonExportCsv
+  commentId: F:Lab8_CRUD.Form1.buttonExportCsv
+  fullName: Lab8_CRUD.Form1.buttonExportCsv
+  nameWithType: Form1.buttonExportCsv
+- uid: Lab8_CRUD.Form1.buttonExportCsv_Click(System.Object,System.EventArgs)
+  name: buttonExportCsv_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonExportCsv_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonExportCsv_Click(System.Object,System.EventArgs)
+  name.vb: buttonExportCsv_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonExportCsv_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonExportCsv_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonExportCsv_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonExportCsv_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonExportCsv_Click*
+  name: buttonExportCsv_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonExportCsv_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonExportCsv_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonExportCsv_Click
+  nameWithType: Form1.buttonExportCsv_Click
+- uid: Lab8_CRUD.Form1.buttonShowLog
+  name: buttonShowLog
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonShowLog
+  commentId: F:Lab8_CRUD.Form1.buttonShowLog
+  fullName: Lab8_CRUD.Form1.buttonShowLog
+  nameWithType: Form1.buttonShowLog
+- uid: Lab8_CRUD.Form1.buttonShowLog_Click(System.Object,System.EventArgs)
+  name: buttonShowLog_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonShowLog_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonShowLog_Click(System.Object,System.EventArgs)
+  name.vb: buttonShowLog_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonShowLog_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonShowLog_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonShowLog_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonShowLog_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonShowLog_Click*
+  name: buttonShowLog_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonShowLog_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonShowLog_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonShowLog_Click
+  nameWithType: Form1.buttonShowLog_Click
+- uid: Lab8_CRUD.Form1.buttonUndo_Click(System.Object,System.EventArgs)
+  name: buttonUndo_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonUndo_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonUndo_Click(System.Object,System.EventArgs)
+  name.vb: buttonUndo_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonUndo_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonUndo_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonUndo_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonUndo_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonUndo_Click*
+  name: buttonUndo_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonUndo_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonUndo_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonUndo_Click
+  nameWithType: Form1.buttonUndo_Click
+- uid: Lab8_CRUD.Form1.buttonUpdate
+  name: buttonUpdate
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonUpdate
+  commentId: F:Lab8_CRUD.Form1.buttonUpdate
+  fullName: Lab8_CRUD.Form1.buttonUpdate
+  nameWithType: Form1.buttonUpdate
+- uid: Lab8_CRUD.Form1.buttonUpdate_Click(System.Object,System.EventArgs)
+  name: buttonUpdate_Click(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonUpdate_Click_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.buttonUpdate_Click(System.Object,System.EventArgs)
+  name.vb: buttonUpdate_Click(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.buttonUpdate_Click(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.buttonUpdate_Click(Object, System.EventArgs)
+  nameWithType: Form1.buttonUpdate_Click(object, EventArgs)
+  nameWithType.vb: Form1.buttonUpdate_Click(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.buttonUpdate_Click*
+  name: buttonUpdate_Click
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_buttonUpdate_Click_
+  commentId: Overload:Lab8_CRUD.Form1.buttonUpdate_Click
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.buttonUpdate_Click
+  nameWithType: Form1.buttonUpdate_Click
+- uid: Lab8_CRUD.Form1.components
+  name: components
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_components
+  commentId: F:Lab8_CRUD.Form1.components
+  fullName: Lab8_CRUD.Form1.components
+  nameWithType: Form1.components
+- uid: Lab8_CRUD.Form1.connectionString
+  name: connectionString
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_connectionString
+  commentId: F:Lab8_CRUD.Form1.connectionString
+  fullName: Lab8_CRUD.Form1.connectionString
+  nameWithType: Form1.connectionString
+- uid: Lab8_CRUD.Form1.dataGridViewStudents
+  name: dataGridViewStudents
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_dataGridViewStudents
+  commentId: F:Lab8_CRUD.Form1.dataGridViewStudents
+  fullName: Lab8_CRUD.Form1.dataGridViewStudents
+  nameWithType: Form1.dataGridViewStudents
+- uid: Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged(System.Object,System.EventArgs)
+  name: dataGridViewStudents_SelectionChanged(object, EventArgs)
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_dataGridViewStudents_SelectionChanged_System_Object_System_EventArgs_
+  commentId: M:Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged(System.Object,System.EventArgs)
+  name.vb: dataGridViewStudents_SelectionChanged(Object, EventArgs)
+  fullName: Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged(object, System.EventArgs)
+  fullName.vb: Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged(Object, System.EventArgs)
+  nameWithType: Form1.dataGridViewStudents_SelectionChanged(object, EventArgs)
+  nameWithType.vb: Form1.dataGridViewStudents_SelectionChanged(Object, EventArgs)
+- uid: Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged*
+  name: dataGridViewStudents_SelectionChanged
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_dataGridViewStudents_SelectionChanged_
+  commentId: Overload:Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged
+  isSpec: "True"
+  fullName: Lab8_CRUD.Form1.dataGridViewStudents_SelectionChanged
+  nameWithType: Form1.dataGridViewStudents_SelectionChanged
+- uid: Lab8_CRUD.Form1.labelAge
+  name: labelAge
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_labelAge
+  commentId: F:Lab8_CRUD.Form1.labelAge
+  fullName: Lab8_CRUD.Form1.labelAge
+  nameWithType: Form1.labelAge
+- uid: Lab8_CRUD.Form1.labelGrade
+  name: labelGrade
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_labelGrade
+  commentId: F:Lab8_CRUD.Form1.labelGrade
+  fullName: Lab8_CRUD.Form1.labelGrade
+  nameWithType: Form1.labelGrade
+- uid: Lab8_CRUD.Form1.labelGroup
+  name: labelGroup
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_labelGroup
+  commentId: F:Lab8_CRUD.Form1.labelGroup
+  fullName: Lab8_CRUD.Form1.labelGroup
+  nameWithType: Form1.labelGroup
+- uid: Lab8_CRUD.Form1.labelName
+  name: labelName
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_labelName
+  commentId: F:Lab8_CRUD.Form1.labelName
+  fullName: Lab8_CRUD.Form1.labelName
+  nameWithType: Form1.labelName
+- uid: Lab8_CRUD.Form1.labelSearch
+  name: labelSearch
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_labelSearch
+  commentId: F:Lab8_CRUD.Form1.labelSearch
+  fullName: Lab8_CRUD.Form1.labelSearch
+  nameWithType: Form1.labelSearch
+- uid: Lab8_CRUD.Form1.labelStatus
+  name: labelStatus
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_labelStatus
+  commentId: F:Lab8_CRUD.Form1.labelStatus
+  fullName: Lab8_CRUD.Form1.labelStatus
+  nameWithType: Form1.labelStatus
+- uid: Lab8_CRUD.Form1.lastSnapshot
+  name: lastSnapshot
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_lastSnapshot
+  commentId: F:Lab8_CRUD.Form1.lastSnapshot
+  fullName: Lab8_CRUD.Form1.lastSnapshot
+  nameWithType: Form1.lastSnapshot
+- uid: Lab8_CRUD.Form1.masterConnectionString
+  name: masterConnectionString
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_masterConnectionString
+  commentId: F:Lab8_CRUD.Form1.masterConnectionString
+  fullName: Lab8_CRUD.Form1.masterConnectionString
+  nameWithType: Form1.masterConnectionString
+- uid: Lab8_CRUD.Form1.numericAge
+  name: numericAge
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_numericAge
+  commentId: F:Lab8_CRUD.Form1.numericAge
+  fullName: Lab8_CRUD.Form1.numericAge
+  nameWithType: Form1.numericAge
+- uid: Lab8_CRUD.Form1.numericGrade
+  name: numericGrade
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_numericGrade
+  commentId: F:Lab8_CRUD.Form1.numericGrade
+  fullName: Lab8_CRUD.Form1.numericGrade
+  nameWithType: Form1.numericGrade
+- uid: Lab8_CRUD.Form1.selectedId
+  name: selectedId
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_selectedId
+  commentId: F:Lab8_CRUD.Form1.selectedId
+  fullName: Lab8_CRUD.Form1.selectedId
+  nameWithType: Form1.selectedId
+- uid: Lab8_CRUD.Form1.studentsTable
+  name: studentsTable
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_studentsTable
+  commentId: F:Lab8_CRUD.Form1.studentsTable
+  fullName: Lab8_CRUD.Form1.studentsTable
+  nameWithType: Form1.studentsTable
+- uid: Lab8_CRUD.Form1.textBoxGroup
+  name: textBoxGroup
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_textBoxGroup
+  commentId: F:Lab8_CRUD.Form1.textBoxGroup
+  fullName: Lab8_CRUD.Form1.textBoxGroup
+  nameWithType: Form1.textBoxGroup
+- uid: Lab8_CRUD.Form1.textBoxName
+  name: textBoxName
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_textBoxName
+  commentId: F:Lab8_CRUD.Form1.textBoxName
+  fullName: Lab8_CRUD.Form1.textBoxName
+  nameWithType: Form1.textBoxName
+- uid: Lab8_CRUD.Form1.textBoxSearch
+  name: textBoxSearch
+  href: api/Lab8_CRUD.Form1.html#Lab8_CRUD_Form1_textBoxSearch
+  commentId: F:Lab8_CRUD.Form1.textBoxSearch
+  fullName: Lab8_CRUD.Form1.textBoxSearch
+  nameWithType: Form1.textBoxSearch
+- uid: Lab8_CRUD.Logger
+  name: Logger
+  href: api/Lab8_CRUD.Logger.html
+  commentId: T:Lab8_CRUD.Logger
+  fullName: Lab8_CRUD.Logger
+  nameWithType: Logger
+- uid: Lab8_CRUD.Logger.ArchiveIfLarge
+  name: ArchiveIfLarge()
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_ArchiveIfLarge
+  commentId: M:Lab8_CRUD.Logger.ArchiveIfLarge
+  fullName: Lab8_CRUD.Logger.ArchiveIfLarge()
+  nameWithType: Logger.ArchiveIfLarge()
+- uid: Lab8_CRUD.Logger.ArchiveIfLarge*
+  name: ArchiveIfLarge
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_ArchiveIfLarge_
+  commentId: Overload:Lab8_CRUD.Logger.ArchiveIfLarge
+  isSpec: "True"
+  fullName: Lab8_CRUD.Logger.ArchiveIfLarge
+  nameWithType: Logger.ArchiveIfLarge
+- uid: Lab8_CRUD.Logger.Gate
+  name: Gate
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_Gate
+  commentId: F:Lab8_CRUD.Logger.Gate
+  fullName: Lab8_CRUD.Logger.Gate
+  nameWithType: Logger.Gate
+- uid: Lab8_CRUD.Logger.LogError(System.String,System.Exception)
+  name: LogError(string, Exception)
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_LogError_System_String_System_Exception_
+  commentId: M:Lab8_CRUD.Logger.LogError(System.String,System.Exception)
+  name.vb: LogError(String, Exception)
+  fullName: Lab8_CRUD.Logger.LogError(string, System.Exception)
+  fullName.vb: Lab8_CRUD.Logger.LogError(String, System.Exception)
+  nameWithType: Logger.LogError(string, Exception)
+  nameWithType.vb: Logger.LogError(String, Exception)
+- uid: Lab8_CRUD.Logger.LogError*
+  name: LogError
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_LogError_
+  commentId: Overload:Lab8_CRUD.Logger.LogError
+  isSpec: "True"
+  fullName: Lab8_CRUD.Logger.LogError
+  nameWithType: Logger.LogError
+- uid: Lab8_CRUD.Logger.LogInfo(System.String)
+  name: LogInfo(string)
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_LogInfo_System_String_
+  commentId: M:Lab8_CRUD.Logger.LogInfo(System.String)
+  name.vb: LogInfo(String)
+  fullName: Lab8_CRUD.Logger.LogInfo(string)
+  fullName.vb: Lab8_CRUD.Logger.LogInfo(String)
+  nameWithType: Logger.LogInfo(string)
+  nameWithType.vb: Logger.LogInfo(String)
+- uid: Lab8_CRUD.Logger.LogInfo*
+  name: LogInfo
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_LogInfo_
+  commentId: Overload:Lab8_CRUD.Logger.LogInfo
+  isSpec: "True"
+  fullName: Lab8_CRUD.Logger.LogInfo
+  nameWithType: Logger.LogInfo
+- uid: Lab8_CRUD.Logger.LogPath
+  name: LogPath
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_LogPath
+  commentId: P:Lab8_CRUD.Logger.LogPath
+  fullName: Lab8_CRUD.Logger.LogPath
+  nameWithType: Logger.LogPath
+- uid: Lab8_CRUD.Logger.LogPath*
+  name: LogPath
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_LogPath_
+  commentId: Overload:Lab8_CRUD.Logger.LogPath
+  isSpec: "True"
+  fullName: Lab8_CRUD.Logger.LogPath
+  nameWithType: Logger.LogPath
+- uid: Lab8_CRUD.Logger.MaxLogBytes
+  name: MaxLogBytes
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_MaxLogBytes
+  commentId: F:Lab8_CRUD.Logger.MaxLogBytes
+  fullName: Lab8_CRUD.Logger.MaxLogBytes
+  nameWithType: Logger.MaxLogBytes
+- uid: Lab8_CRUD.Logger.TryFileOperation(System.Action)
+  name: TryFileOperation(Action)
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_TryFileOperation_System_Action_
+  commentId: M:Lab8_CRUD.Logger.TryFileOperation(System.Action)
+  fullName: Lab8_CRUD.Logger.TryFileOperation(System.Action)
+  nameWithType: Logger.TryFileOperation(Action)
+- uid: Lab8_CRUD.Logger.TryFileOperation*
+  name: TryFileOperation
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_TryFileOperation_
+  commentId: Overload:Lab8_CRUD.Logger.TryFileOperation
+  isSpec: "True"
+  fullName: Lab8_CRUD.Logger.TryFileOperation
+  nameWithType: Logger.TryFileOperation
+- uid: Lab8_CRUD.Logger.Write(System.String,System.String,System.Exception)
+  name: Write(string, string, Exception)
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_Write_System_String_System_String_System_Exception_
+  commentId: M:Lab8_CRUD.Logger.Write(System.String,System.String,System.Exception)
+  name.vb: Write(String, String, Exception)
+  fullName: Lab8_CRUD.Logger.Write(string, string, System.Exception)
+  fullName.vb: Lab8_CRUD.Logger.Write(String, String, System.Exception)
+  nameWithType: Logger.Write(string, string, Exception)
+  nameWithType.vb: Logger.Write(String, String, Exception)
+- uid: Lab8_CRUD.Logger.Write*
+  name: Write
+  href: api/Lab8_CRUD.Logger.html#Lab8_CRUD_Logger_Write_
+  commentId: Overload:Lab8_CRUD.Logger.Write
+  isSpec: "True"
+  fullName: Lab8_CRUD.Logger.Write
+  nameWithType: Logger.Write
+- uid: Lab8_CRUD.Program
+  name: Program
+  href: api/Lab8_CRUD.Program.html
+  commentId: T:Lab8_CRUD.Program
+  fullName: Lab8_CRUD.Program
+  nameWithType: Program
+- uid: Lab8_CRUD.Program.Main
+  name: Main()
+  href: api/Lab8_CRUD.Program.html#Lab8_CRUD_Program_Main
+  commentId: M:Lab8_CRUD.Program.Main
+  fullName: Lab8_CRUD.Program.Main()
+  nameWithType: Program.Main()
+- uid: Lab8_CRUD.Program.Main*
+  name: Main
+  href: api/Lab8_CRUD.Program.html#Lab8_CRUD_Program_Main_
+  commentId: Overload:Lab8_CRUD.Program.Main
+  isSpec: "True"
+  fullName: Lab8_CRUD.Program.Main
+  nameWithType: Program.Main
+- uid: Lab8_CRUD.Properties
+  name: Lab8_CRUD.Properties
+  href: api/Lab8_CRUD.Properties.html
+  commentId: N:Lab8_CRUD.Properties
+  fullName: Lab8_CRUD.Properties
+  nameWithType: Lab8_CRUD.Properties
+- uid: Lab8_CRUD.Properties.Resources
+  name: Resources
+  href: api/Lab8_CRUD.Properties.Resources.html
+  commentId: T:Lab8_CRUD.Properties.Resources
+  fullName: Lab8_CRUD.Properties.Resources
+  nameWithType: Resources
+- uid: Lab8_CRUD.Properties.Resources.#ctor
+  name: Resources()
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources__ctor
+  commentId: M:Lab8_CRUD.Properties.Resources.#ctor
+  name.vb: New()
+  fullName: Lab8_CRUD.Properties.Resources.Resources()
+  fullName.vb: Lab8_CRUD.Properties.Resources.New()
+  nameWithType: Resources.Resources()
+  nameWithType.vb: Resources.New()
+- uid: Lab8_CRUD.Properties.Resources.#ctor*
+  name: Resources
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources__ctor_
+  commentId: Overload:Lab8_CRUD.Properties.Resources.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Lab8_CRUD.Properties.Resources.Resources
+  fullName.vb: Lab8_CRUD.Properties.Resources.New
+  nameWithType: Resources.Resources
+  nameWithType.vb: Resources.New
+- uid: Lab8_CRUD.Properties.Resources.Culture
+  name: Culture
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources_Culture
+  commentId: P:Lab8_CRUD.Properties.Resources.Culture
+  fullName: Lab8_CRUD.Properties.Resources.Culture
+  nameWithType: Resources.Culture
+- uid: Lab8_CRUD.Properties.Resources.Culture*
+  name: Culture
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources_Culture_
+  commentId: Overload:Lab8_CRUD.Properties.Resources.Culture
+  isSpec: "True"
+  fullName: Lab8_CRUD.Properties.Resources.Culture
+  nameWithType: Resources.Culture
+- uid: Lab8_CRUD.Properties.Resources.ResourceManager
+  name: ResourceManager
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources_ResourceManager
+  commentId: P:Lab8_CRUD.Properties.Resources.ResourceManager
+  fullName: Lab8_CRUD.Properties.Resources.ResourceManager
+  nameWithType: Resources.ResourceManager
+- uid: Lab8_CRUD.Properties.Resources.ResourceManager*
+  name: ResourceManager
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources_ResourceManager_
+  commentId: Overload:Lab8_CRUD.Properties.Resources.ResourceManager
+  isSpec: "True"
+  fullName: Lab8_CRUD.Properties.Resources.ResourceManager
+  nameWithType: Resources.ResourceManager
+- uid: Lab8_CRUD.Properties.Resources.resourceCulture
+  name: resourceCulture
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources_resourceCulture
+  commentId: F:Lab8_CRUD.Properties.Resources.resourceCulture
+  fullName: Lab8_CRUD.Properties.Resources.resourceCulture
+  nameWithType: Resources.resourceCulture
+- uid: Lab8_CRUD.Properties.Resources.resourceMan
+  name: resourceMan
+  href: api/Lab8_CRUD.Properties.Resources.html#Lab8_CRUD_Properties_Resources_resourceMan
+  commentId: F:Lab8_CRUD.Properties.Resources.resourceMan
+  fullName: Lab8_CRUD.Properties.Resources.resourceMan
+  nameWithType: Resources.resourceMan
+- uid: Lab8_CRUD.Properties.Settings
+  name: Settings
+  href: api/Lab8_CRUD.Properties.Settings.html
+  commentId: T:Lab8_CRUD.Properties.Settings
+  fullName: Lab8_CRUD.Properties.Settings
+  nameWithType: Settings
+- uid: Lab8_CRUD.Properties.Settings.Default
+  name: Default
+  href: api/Lab8_CRUD.Properties.Settings.html#Lab8_CRUD_Properties_Settings_Default
+  commentId: P:Lab8_CRUD.Properties.Settings.Default
+  fullName: Lab8_CRUD.Properties.Settings.Default
+  nameWithType: Settings.Default
+- uid: Lab8_CRUD.Properties.Settings.Default*
+  name: Default
+  href: api/Lab8_CRUD.Properties.Settings.html#Lab8_CRUD_Properties_Settings_Default_
+  commentId: Overload:Lab8_CRUD.Properties.Settings.Default
+  isSpec: "True"
+  fullName: Lab8_CRUD.Properties.Settings.Default
+  nameWithType: Settings.Default
+- uid: Lab8_CRUD.Properties.Settings.defaultInstance
+  name: defaultInstance
+  href: api/Lab8_CRUD.Properties.Settings.html#Lab8_CRUD_Properties_Settings_defaultInstance
+  commentId: F:Lab8_CRUD.Properties.Settings.defaultInstance
+  fullName: Lab8_CRUD.Properties.Settings.defaultInstance
+  nameWithType: Settings.defaultInstance

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lab8_CRUD.Tests/Lab8_CRUD.Tests.csproj" />
+  <Project Path="Lab8_CRUD/Lab8_CRUD.csproj" Id="b0391787-ebf3-4e88-968c-d524f9e690c0" />
+</Solution>

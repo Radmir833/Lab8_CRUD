@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab8_CRUD</name>
+    </assembly>
+    <members>
+        <member name="T:Lab8_CRUD.Form1">
+            <summary>Главная форма для просмотра, поиска и изменения записей о студентах.</summary>
+            <remarks>Операции с SQL Server выполняются через ADO.NET. Ошибки сохраняются в журнал рядом с приложением.</remarks>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.#ctor">
+            <summary>Создаёт форму и подписывает обработчики её элементов.</summary>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.LoadStudents">
+            <summary>Загружает записи из SQL Server и обновляет таблицу с учётом поиска.</summary>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.buttonAdd_Click(System.Object,System.EventArgs)">
+            <summary>Добавляет студента после проверки ввода и уникальности ФИО.</summary>
+            <param name="sender">Кнопка формы.</param>
+            <param name="e">Данные события Click.</param>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.buttonUpdate_Click(System.Object,System.EventArgs)">
+            <summary>Сохраняет изменения выбранного студента.</summary>
+            <param name="sender">Кнопка формы.</param>
+            <param name="e">Данные события Click.</param>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.buttonDelete_Click(System.Object,System.EventArgs)">
+            <summary>Удаляет выбранного студента после подтверждения.</summary>
+            <param name="sender">Кнопка формы.</param>
+            <param name="e">Данные события Click.</param>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.IsStudentExists(System.String)">
+            <summary>Проверяет, сохранено ли в базе заданное ФИО.</summary>
+            <param name="fullName">Полное имя студента.</param>
+            <returns>True, если запись существует.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">SQL Server отклонил запрос.</exception>
+            <example><code>bool exists = IsStudentExists("Иванов Иван");</code></example>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.GetSqlErrorMessage(System.Data.SqlClient.SqlException)">
+            <summary>Подбирает сообщение для известного номера ошибки SQL Server.</summary>
+            <param name="ex">Исключение, полученное от поставщика SQL.</param>
+            <returns>Сообщение для окна ошибки.</returns>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.ClearInputs">
+            <summary>Сбрасывает поля и выбор строки в таблице.</summary>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.ValidateInput">
+            <summary>Проверяет ФИО и группу. Возраст и балл ограничены настройками полей.</summary>
+            <returns>True, если введённые данные можно сохранить.</returns>
+        </member>
+        <member name="F:Lab8_CRUD.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:Lab8_CRUD.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:Lab8_CRUD.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:Lab8_CRUD.Logger">
+            <summary>Записывает события программы и архивирует большой журнал.</summary>
+        </member>
+        <member name="P:Lab8_CRUD.Logger.LogPath">
+            <summary>Возвращает путь к рабочему журналу.</summary>
+        </member>
+        <member name="M:Lab8_CRUD.Logger.LogError(System.String,System.Exception)">
+            <summary>Записывает диагностическое сообщение об ошибке.</summary>
+            <param name="message">Контекст операции.</param>
+            <param name="error">Исходное исключение, если оно есть.</param>
+        </member>
+        <member name="M:Lab8_CRUD.Logger.LogInfo(System.String)">
+            <summary>Записывает сведения об успешной операции.</summary>
+            <param name="message">Описание операции.</param>
+        </member>
+        <member name="M:Lab8_CRUD.Logger.ArchiveIfLarge">
+            <summary>Архивирует текущий журнал, если его размер превышает 1 МБ.</summary>
+        </member>
+        <member name="T:Lab8_CRUD.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:Lab8_CRUD.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:Lab8_CRUD.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

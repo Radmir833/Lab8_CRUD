@@ -1,0 +1,8 @@
+- name: Инструкция по запуску
+  href: README.md
+- name: Справочник API
+  href: api/
+- name: История изменений
+  href: CHANGELOG.md
+- name: Участие в разработке
+  href: CONTRIBUTING.md

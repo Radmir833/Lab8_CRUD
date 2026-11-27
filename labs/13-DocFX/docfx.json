@@ -1,0 +1,19 @@
+{
+  "metadata": [
+    {
+      "src": [{ "files": ["Lab8_CRUD/Lab8_CRUD.csproj"] }],
+      "dest": "api",
+      "includePrivateMembers": true
+    }
+  ],
+  "build": {
+    "content": [{ "files": ["index.md", "toc.yml", "README.md", "CHANGELOG.md", "CONTRIBUTING.md", "api/**.yml"] }],
+    "output": "_site",
+    "template": ["default", "modern"],
+    "globalMetadata": {
+      "_appName": "Lab8_CRUD",
+      "_appTitle": "Документация Lab8_CRUD",
+      "_lang": "ru"
+    }
+  }
+}
