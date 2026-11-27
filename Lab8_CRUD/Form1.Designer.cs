@@ -45,6 +45,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStudents)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericAge)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericGrade)).BeginInit();
+            this.textBoxSearch = new System.Windows.Forms.TextBox();
+            this.labelSearch = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // dataGridViewStudents
@@ -175,6 +177,15 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(982, 553);
+            this.textBoxSearch.Location = new System.Drawing.Point(650, 191);
+            this.textBoxSearch.Size = new System.Drawing.Size(320, 22);
+            this.textBoxSearch.Name = "textBoxSearch";
+            this.textBoxSearch.AccessibleName = "Поиск по ФИО";
+            this.labelSearch.Location = new System.Drawing.Point(530, 192);
+            this.labelSearch.Size = new System.Drawing.Size(116, 22);
+            this.labelSearch.Text = "Поиск по ФИО";
+            this.Controls.Add(this.labelSearch);
+            this.Controls.Add(this.textBoxSearch);
             this.Controls.Add(this.labelStatus);
             this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonDelete);
@@ -217,6 +228,8 @@
         private System.Windows.Forms.Button buttonDelete;
         private System.Windows.Forms.Button buttonClear;
         private System.Windows.Forms.Label labelStatus;
+        private System.Windows.Forms.TextBox textBoxSearch;
+        private System.Windows.Forms.Label labelSearch;
     }
 }
 

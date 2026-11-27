@@ -18,6 +18,7 @@ namespace Lab8_CRUD
             Environment.GetEnvironmentVariable("LAB8_CONNECTION_STRING") ??
             @"Data Source=.;Initial Catalog=StudentsDB;Integrated Security=True;TrustServerCertificate=True";
 
+        private DataTable studentsTable;
         private int selectedId = 0;
         private DataTable lastSnapshot = null;
 
@@ -32,6 +33,8 @@ namespace Lab8_CRUD
             buttonUpdate.Click += buttonUpdate_Click;
             buttonDelete.Click += buttonDelete_Click;
             buttonClear.Click += buttonClear_Click;
+
+            textBoxSearch.TextChanged += (sender, args) => ApplyStudentSearch();
 
             // Если вы добавили эти кнопки на форму, раскомментируйте:
             // buttonExportCsv.Click += buttonExportCsv_Click;
@@ -104,7 +107,10 @@ namespace Lab8_CRUD
                 {
                     var table = new DataTable();
                     adapter.Fill(table);
-                    dataGridViewStudents.DataSource = table;
+                    table.CaseSensitive = false;
+                    studentsTable = table;
+                    dataGridViewStudents.DataSource = table.DefaultView;
+                    ApplyStudentSearch();
 
                     if (dataGridViewStudents.Columns.Count > 0)
                     {
@@ -123,6 +129,26 @@ namespace Lab8_CRUD
                 MessageBox.Show("Ошибка загрузки данных:\n" + ex.Message,
                     "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void ApplyStudentSearch()
+        {
+            if (studentsTable == null) return;
+            var filter = new StringBuilder();
+            foreach (char character in textBoxSearch.Text.Trim())
+            {
+                switch (character)
+                {
+                    case '\'': filter.Append("''"); break;
+                    case '[': filter.Append("[[]"); break;
+                    case ']': filter.Append("[]]"); break;
+                    case '*': filter.Append("[*]"); break;
+                    case '%': filter.Append("[%]"); break;
+                    default: filter.Append(character); break;
+                }
+            }
+            studentsTable.DefaultView.RowFilter =
+                filter.Length == 0 ? "" : $"FullName LIKE '%{filter}%'";
         }
 
         // ---------- ВЫБОР СТРОКИ ----------
