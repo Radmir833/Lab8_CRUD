@@ -47,6 +47,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericGrade)).BeginInit();
             this.textBoxSearch = new System.Windows.Forms.TextBox();
             this.labelSearch = new System.Windows.Forms.Label();
+            this.buttonExportCsv = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // dataGridViewStudents
@@ -184,6 +185,11 @@
             this.labelSearch.Location = new System.Drawing.Point(530, 192);
             this.labelSearch.Size = new System.Drawing.Size(116, 22);
             this.labelSearch.Text = "Поиск по ФИО";
+            this.buttonExportCsv.Location = new System.Drawing.Point(765, 425);
+            this.buttonExportCsv.Size = new System.Drawing.Size(145, 42);
+            this.buttonExportCsv.Name = "buttonExportCsv";
+            this.buttonExportCsv.Text = "Экспорт в CSV";
+            this.Controls.Add(this.buttonExportCsv);
             this.Controls.Add(this.labelSearch);
             this.Controls.Add(this.textBoxSearch);
             this.Controls.Add(this.labelStatus);
@@ -230,6 +236,7 @@
         private System.Windows.Forms.Label labelStatus;
         private System.Windows.Forms.TextBox textBoxSearch;
         private System.Windows.Forms.Label labelSearch;
+        private System.Windows.Forms.Button buttonExportCsv;
     }
 }
 

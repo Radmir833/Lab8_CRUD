@@ -37,7 +37,7 @@ namespace Lab8_CRUD
             textBoxSearch.TextChanged += (sender, args) => ApplyStudentSearch();
 
             // Если вы добавили эти кнопки на форму, раскомментируйте:
-            // buttonExportCsv.Click += buttonExportCsv_Click;
+            buttonExportCsv.Click += buttonExportCsv_Click;
             // buttonUndo.Click += buttonUndo_Click;
         }
 
@@ -382,11 +382,11 @@ namespace Lab8_CRUD
                     {
                         if (row.IsNewRow) continue;
                         sb.AppendLine(string.Join(";",
-                            row.Cells["Id"].Value,
-                            row.Cells["FullName"].Value,
-                            row.Cells["Age"].Value,
-                            row.Cells["GroupName"].Value,
-                            row.Cells["AverageGrade"].Value));
+                            CsvField(row.Cells["Id"].Value),
+                            CsvField(row.Cells["FullName"].Value),
+                            CsvField(row.Cells["Age"].Value),
+                            CsvField(row.Cells["GroupName"].Value),
+                            CsvField(row.Cells["AverageGrade"].Value)));
                     }
 
                     File.WriteAllText(sfd.FileName, sb.ToString(), new UTF8Encoding(true));
@@ -399,6 +399,13 @@ namespace Lab8_CRUD
                         "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+        }
+
+        private static string CsvField(object value)
+        {
+            string text = Convert.ToString(value) ?? "";
+            const char quote = '"';
+            return quote + text.Replace(quote.ToString(), new string(quote, 2)) + quote;
         }
 
         // ---------- ОТМЕНА ----------
